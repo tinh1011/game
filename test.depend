@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621238321 source:c:\users\administrator\desktop\test\main.cpp
+	<iostream>
+	<SDL.h>
+	<stdio.h>
+	<algorithm>
+	<ctype.h>
+	<time.h>
+
+1621273908 source:c:\users\administrator\desktop\test\ltexture.cpp
+	<SDL.h>
+
